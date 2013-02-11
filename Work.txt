@@ -1,9 +1,7 @@
 
 
-Lines added
-<<<<<<< HEAD
+ added
 Himanshu
 =======
 RD
->>>>>>> Mergin
 NEW LINE
